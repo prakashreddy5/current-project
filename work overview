@@ -1,0 +1,8 @@
+In my new rolw I am working as a analyst and devops engineer.
+my main task are doing the release, we use ready to go procedure(it means we release to prod when it is ready).
+My main tools I am working on here are Azure devops, ansible, terraform, splunk, servicenow.
+Azure devops: this is the cloud technology we are using now, we create a pipelines by using ansible scripts and deploy our code.
+we create the infrastructure by using terraform.
+splunk is used to monitor the logs.
+servicenow is used to create the change requests to get approvals from managers.
+In this repo i will give details of my work experiences.
